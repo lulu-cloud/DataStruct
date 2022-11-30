@@ -1,0 +1,30 @@
+digraph{
+    #点状线
+    #a[label="node",style=dotted]
+    // node1[label="3"]
+    // node2[label="B"]
+    // # 设置边，以及权重
+    // node1->node2[style=dotted,taillabel="0"]
+    
+    // R[label=R]
+    // A[label=A]
+    // B[label=B]
+    // C[label=C]
+    // D[label=D]
+    // E[label=E]
+    // F[label=F]
+    // G[label=G]
+    // H[label=H]
+    // K[label=K]
+    // R->A
+    // A->D
+    // D->E
+    // A->B
+    P->Q
+    P->W
+    P->X
+    X->Y
+
+    
+
+}
